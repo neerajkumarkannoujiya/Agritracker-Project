@@ -82,28 +82,55 @@ This repository hosts the source code and configuration for the **AgriTracker** 
 |------------|--------------------------------------------|
 | Frontend   | HTML5, CSS3, Bootstrap, JavaScript         |
 | Backend    | Python 3.x, Django, Django REST Framework  |
-| Database   | PostgreSQL (with encryption)               |
+| Database   | DBSqlite3              |
 | Testing    | PyTest, UAT (User Acceptance Testing)      |
 | Deployment | Linux-based servers, Phase-wise rollout    |
 
 ---
 
-## 🌀 Development Methodology
+## 🌀 Project ScreenShots
 
-AgriTracker follows the **Agile** model with iterative development cycles:
+> 📌 *Add your screenshots in the `screenshots/` folder and update the file names if required.*
 
-1. **Requirement Gathering**  
-   - Surveys & interviews with 100+ farmers across 5 Indian states  
-2. **Prototyping**  
-   - Low-fidelity UI mockups and feedback loop  
-3. **Development**  
-   - Modular apps: Farm, Marketplace, Blog  
-   - RESTful APIs using Django REST Framework  
-4. **Testing**  
-   - Unit testing using PyTest  
-   - UAT with a selected group of farmers  
-5. **Deployment**  
-   - Gradual rollout to 500+ farms in Phase 1
+---
+
+### 🏠 Landing Page
+<!-- PLACE LANDING PAGE SCREENSHOT BELOW -->
+![Landing Page](screenshots/landing_page.png)
+
+**Description:**  
+The landing page introduces AgriTracker’s mission and key features, providing users with an overview of farm management and marketplace services through a simple and responsive interface.
+
+---
+
+### 🛒 Products Page
+<!-- PLACE PRODUCTS PAGE SCREENSHOT BELOW -->
+![Products Page](screenshots/products_page.png)
+
+**Description:**  
+The products page allows users to browse agricultural products by category, search items, view pricing, and access detailed product information.
+
+---
+
+### 🔐 Login Page
+<!-- PLACE LOGIN PAGE SCREENSHOT BELOW -->
+![Login Page](screenshots/login_page.png)
+
+**Description:**  
+The login page provides secure authentication for farmers and users, enabling access to personalized dashboards and farm-related functionalities.
+
+---
+
+### 📊 Data Store Page
+<!-- PLACE DATA STORE PAGE SCREENSHOT BELOW -->
+![Data Store Page](screenshots/data_store_page.png)
+
+**Description:**  
+The data store page enables farmers to manage and store farm data such as crop details, field information, and operational records in an organized manner.
+
+---
+
+
 
 ---
 
