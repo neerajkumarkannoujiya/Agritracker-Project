@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-**AgriTracker** is a web-based agricultural management and marketplace platform built specifically for **Large and Mid-scale farmers in India**. It offers digital farm record-keeping, a direct-to-buyer marketplace, and a blog-based knowledge-sharing community for farmers. 
+**AgriTracker** is a web-based agricultural management and marketplace platform built specifically for **Large and Mid-scale farmers in India**. It offers digital farm record-keeping, a direct-to-buyer marketplace, and a blog-based knowledge-sharing community for farmers deployed on AWS EC2. 
 
 It aims to bridge gaps in data management, reduce dependence on middlemen, and enhance sustainability in Indian agriculture.
 
@@ -21,7 +21,7 @@ This repository hosts the source code and configuration for the **AgriTracker** 
 
 - Backend & API development using Django REST Framework  
 - A responsive frontend using Bootstrap and Django templates  
-- PostgreSQL integration for encrypted farm data storage  
+- SQLite for farm data storage  
 - Marketplace functionality for connecting farmers and buyers  
 - A blog for agricultural knowledge exchange  
 
@@ -29,11 +29,11 @@ This repository hosts the source code and configuration for the **AgriTracker** 
 
 ## 🎯 Objectives
 
-| Objective             | Description                                     | Success Metric                        |
-|-----------------------|-------------------------------------------------|---------------------------------------|
-| Data-Driven Decisions | Record and analyze farm operations              | 80% adoption rate in pilot testing    |
-| Market Linkage        | Enable direct farmer-to-buyer connections       | 50% reduction in middlemen dependency |
-| Sustainability        | Promote efficient resource usage                | 30% increase in water/fertilizer efficiency |
+| Objective             | Description                                     |
+|-----------------------|-------------------------------------------------|
+| Data-Driven Decisions | Record and analyze farm operations              |
+| Market Linkage        | Enable direct farmer-to-buyer connections       |
+| Sustainability        | Promote efficient resource usage                | 
 
 ---
 
@@ -84,7 +84,7 @@ This repository hosts the source code and configuration for the **AgriTracker** 
 | Backend    | Python 3.x, Django, Django REST Framework  |
 | Database   | DBSqlite3              |
 | Testing    | PyTest, UAT (User Acceptance Testing)      |
-| Deployment | Linux-based servers, Phase-wise rollout    |
+| Deployment | Amazon AWS EC2       |
 
 ---
 
