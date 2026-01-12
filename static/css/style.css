@@ -1240,14 +1240,14 @@ h1, h2, h3, h4, h5,
 .block-2 {
   background: #116530;
   color: #fff;
-  padding: 0rem 0; }
+  padding: 7rem 0; }
   .block-2 .img-overlap {
     margin-top: -150px; }
 
 .block-3 {
   background: #09162a;
-  padding: 0 0;
-  margin-bottom: 0rem; }
+  padding: 7rem 0;
+  margin-bottom: 14rem; }
 
 .section-title {
   color: #fff;
@@ -1596,10 +1596,3 @@ h1, h2, h3, h4, h5,
 
 .opacity-50 {
   opacity: .5; }
-
-  .contact_form {
-text-align: center;
-  }
-  
-  
-
