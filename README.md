@@ -96,7 +96,7 @@ This repository hosts the source code and configuration for the **AgriTracker** 
 
 ### 🏠 Landing Page
 <!-- PLACE LANDING PAGE SCREENSHOT BELOW -->
-![Landing Page](screenshots/landing_page.png)
+![Landing Page](SRS/home.png)
 
 **Description:**  
 The landing page introduces AgriTracker’s mission and key features, providing users with an overview of farm management and marketplace services through a simple and responsive interface.
@@ -105,7 +105,7 @@ The landing page introduces AgriTracker’s mission and key features, providing 
 
 ### 🛒 Products Page
 <!-- PLACE PRODUCTS PAGE SCREENSHOT BELOW -->
-![Products Page](screenshots/products_page.png)
+![Products Page](SRS/store.png)
 
 **Description:**  
 The products page allows users to browse agricultural products by category, search items, view pricing, and access detailed product information.
@@ -114,7 +114,7 @@ The products page allows users to browse agricultural products by category, sear
 
 ### 🔐 Login Page
 <!-- PLACE LOGIN PAGE SCREENSHOT BELOW -->
-![Login Page](screenshots/login_page.png)
+![Login Page](SRS/login.png)
 
 **Description:**  
 The login page provides secure authentication for farmers and users, enabling access to personalized dashboards and farm-related functionalities.
@@ -123,7 +123,7 @@ The login page provides secure authentication for farmers and users, enabling ac
 
 ### 📊 Data Store Page
 <!-- PLACE DATA STORE PAGE SCREENSHOT BELOW -->
-![Data Store Page](screenshots/data_store_page.png)
+![Data Store Page](SRS/farmar_dash.png)
 
 **Description:**  
 The data store page enables farmers to manage and store farm data such as crop details, field information, and operational records in an organized manner.
