@@ -1,7 +1,7 @@
 # 🌾 AgriTracker
 
 **Version**: 1.0  
-**Prepared by**: Neeraj Ku. Kannoujiya, Aman Sahu  
+**Prepared by**: Neeraj Ku. Kannoujiya
 **Approved by**: Dr. Gaurav Srivastava  
 **Date**: 06/04/2025  
 
